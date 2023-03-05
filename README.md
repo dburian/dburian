@@ -1,16 +1,28 @@
-### Hi there 👋
+### David Burian
 
-<!--
-**dburian/dburian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### I am
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ML engineer in the making
+- always on some project and always learning
+- Neovim user
+- dotfiles tinkerer
+
+
+#### I work on
+
+- a new way to semantically embed whole documents
+- topologic analysis of Czech sentence embeddings
+- few Neovim plugins for easier notetaking in Markdown
+- a new static site generator for visualizing notes
+- improving my Tensorflow fluency
+
+
+#### I am learning about
+
+- neural machine translation
+- big transformer encoders
+- PyTorch and 🤗 packages
+
+
+ 
