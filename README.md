@@ -1,30 +1,18 @@
 ### David Burian
 
-
 #### I am
 
-- ML engineer in the making
-- lifetime student
+- ML researcher -- currently looking for new opportunities on [LinkedIn](https://linkedin.com/in/david-burian)
+- lifetime student -- checkout my [notes](https://dburian.github.io/notes)
 - [Neovim][neovim] user
-- dotfiles tinkerer
+- [dotfiles](https://github.com/dburian/dotfiles) tinkerer
 
+#### I've worked on:
 
-#### I work on
-
-- [a new way][tde] to semantically embed whole documents
-- topologic analysis of Czech sentence embeddings
-- few Neovim plugins for easier notetaking in Markdown ([for autocompletion][cmp-markdown-link] and [navigation][telescope-markdown-links])
-- a new static site generator for visualizing notes
-- improving my Tensorflow fluency
-
-
-#### I am learning about
-
-- neural machine translation
-- big transformer encoders
-- PyTorch and 🤗 packages
-
-
+- Training long-context transformer text embedders [[repo][tde]]
+- Topologic analysis of Czech sentence embeddings [[repo](https://github.com/johnvojtech/sentence-topology)]
+- Visualizing markdown notes on the web using new SvelteKit [[repo](https://github.com/dburian/noteplot)]
+- Neovim plugins for easier notetaking in Markdown ([for autocompletion][cmp-markdown-link] and [navigation][telescope-markdown-links])
  
 [neovim]: https://github.com/neovim/neovim
 [tde]: https://github.com/dburian/transformer_document_embedding
