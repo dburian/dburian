@@ -1,5 +1,7 @@
 ### David Burian
 
+![Noteplot screenshot](./noteplot_screenshot_crop.png)
+
 #### I am
 
 - ML researcher -- currently looking for new opportunities on [LinkedIn](https://linkedin.com/in/david-burian)
